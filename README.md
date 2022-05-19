@@ -12,4 +12,7 @@ Discord: hernan#7756
               'Know people new',
               'working on team'];
 
-          alert(WishList);
+   
+if(companyLookingForProgrammer) {
+Alert(WishList)
+}
